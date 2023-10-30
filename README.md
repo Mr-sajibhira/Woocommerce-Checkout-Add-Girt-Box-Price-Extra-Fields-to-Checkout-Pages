@@ -1,1 +1,1 @@
-# Woocommerce-Checkout-Add-Girt-Box-Price-Extra-Fields-to-Checkout-Pages
+# Woocommerce-Checkout-Add-Gift-Box-Price-Extra-Fields-to-Checkout-Pages
